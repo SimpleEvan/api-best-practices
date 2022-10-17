@@ -6,3 +6,5 @@ best-practices/best.api/bin/
 best-practices/best.api/obj/
 
 .DS_Store
+
+.vscode/
